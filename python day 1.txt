@@ -1,0 +1,22 @@
+n = input ("Digita um número: ")
+resultado = float (n) * 2
+print(resultado)
+# Questão 1
+
+N = input ("leia duas notas: ")
+G = float (9) /2
+g = float (7) / 2
+print (g)
+print (G)
+# Questão 2
+
+p = input ("leia a média do aluno: ")
+a = 9
+b = 7
+if a > b:
+    print("aprovado")
+elif a < b:
+    print("reprovado")
+else:
+    print("se a for maior exiba aprovado ou se for menor reprovado")
+# Questão 3

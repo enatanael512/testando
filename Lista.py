@@ -25,6 +25,7 @@ while True:
     elif opcao == "3":
         produto = input("Digite o nome do produto para remover: ")
         if produto in lista_compras:
+
             lista_compras.remove(produto)
             print("Produto removido com sucesso!")
         else:
@@ -36,3 +37,7 @@ while True:
 
     else:
         print("Opção inválida! Tente novamente.")
+
+        
+
+        

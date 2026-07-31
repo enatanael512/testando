@@ -1,0 +1,18 @@
+    {
+        text=decorattions: underline;
+    }
+
+    body {
+        background-color: lightred;
+        balckground-position:center;
+        background-attachment: fixed;
+    }
+
+    p {
+        color:red;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
